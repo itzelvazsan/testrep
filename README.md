@@ -1,5 +1,5 @@
 # testrep
 
-##editing the test file
+## Editing the test file
 
 It's a markdown repository
